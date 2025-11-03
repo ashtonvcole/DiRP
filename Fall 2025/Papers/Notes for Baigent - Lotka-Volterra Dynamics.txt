@@ -18,5 +18,7 @@ Questions for Discussion
 - Can either species die out?
 - How does modifying the coefficients change the solution?
 - How does modifying the initial conditions change the solution?
+- Favorite example of ODEs?
+- Runge Kutta Methods?
 
 Discussion Notes
