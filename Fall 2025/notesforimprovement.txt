@@ -1,2 +1,3 @@
 Notes for Improvement
 - Have people fork their repos
+- Organize presentations and notebooks by topic, not day for flexibility

@@ -1,0 +1,18 @@
+Meeting 6
+- Introducing partial derivative
+	- Gradient
+	- Divergence
+- Multivariable Taylor series expansion
+- Common terms in PDEs
+	- Exponential term
+	- Advection term
+	- Diffusion term
+- Common PDEs
+	- Advection equation
+	- Heat equation
+	- Advection-diffusion-reaction equation
+	- Continuity equation
+	- Acoustic equation
+		- Shown as composition of transport equations
+- Advection equation demo
+- Assignment: Read Dawson - hp DG for Advection. Focus on broad understanding of the equations and problems being solved.
